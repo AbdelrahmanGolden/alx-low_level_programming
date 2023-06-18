@@ -5,7 +5,7 @@
  *
  * Description: prints numbers of base16 in lowercase
  *
- * return: 0 (success)
+ * Return: 0 (success)
 */
 
 int main(void)
