@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_sign - + if n>0 , 0 if n=0, if - n<0
+ * print_sign - prints + if n > 0 , 0 if n = 0, if - n < 0
  *
- * @c: takes an integer type for function
+ * @n: takes an integer n type for function
  *
- * Return 1 if +, 0 if 0, -1 if -
+ * Return: 1 if n +, 0 if n 0, -1 if n -
 */
 
 int print_sign(int n)
