@@ -30,7 +30,7 @@ double _sqrt(double x)
  * @num: number to find
 */
 
-void latgest_prime_factor(long int num)
+void largest_prime_factor(long int num)
 {
 	int prmNu, largest;
 
