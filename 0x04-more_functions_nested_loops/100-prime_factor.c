@@ -19,13 +19,13 @@ double _sqrt(double x)
 	while (sqrt != tmp)
 	{
 		tmp = sqrt;
-		sqrt = (x / tmp +tmp) / 2;
+		sqrt = (x / tmp + tmp) / 2;
 	}
 	return (sqrt);
 }
 
 /**
- * largest_prime_factor - finds and prints the largest prime factor of number (num)
+ * largest_prime_factor - finds and prints the largest prime factor of num)
  *
  * @num: number to find
 */
@@ -45,7 +45,7 @@ void largest_prime_factor(long int num)
 			largest = prmNu;
 		}
 	}
-	
+
 	if (num > 2)
 		largest = num;
 	printf("%d\n", largest);
@@ -56,6 +56,7 @@ void largest_prime_factor(long int num)
  *
  * Return: alwafdsafdsaf
 */
+
 int main(void)
 {
 
