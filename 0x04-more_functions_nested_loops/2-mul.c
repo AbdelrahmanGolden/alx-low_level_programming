@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * int mul - multplies two integers
+ * mul - multiplies 2 nums
  *
- * @a: first num
- * @b: second num
+ * @a: 1st
+ * @b: 2nd
  *
- * Return: res
+ * Return: result
 */
 
 int mul(int a, int b)
